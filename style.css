@@ -1,0 +1,17 @@
+@charset "UTF-8";
+*{
+    text-align: center;
+}
+
+head{
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+}
+header{
+    background-color: #04182b;
+    color: aliceblue;
+    font-family: montserrat,sans-serif;
+    font-weight: 100;
+}
+.h2{
+    font-weight: 100;
+}
